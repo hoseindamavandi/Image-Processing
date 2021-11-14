@@ -1,10 +1,9 @@
-Assignment 21
+## Image Processing - level 1 
 
-۱- با استفاده از پردازش تصویر و حلقه for یک تصویر به صورت صفحه شطرنج خالی بسازید.
+- **Creat Chess Board:** creat an empty chess board with 'for' and using image processing (openCV)
 
-۲- در تصویر ۱ و ۲ رنگ های تیره و روشن جا به جا شده اند. رنگ آن ها را اصلاح کنید.
+- **Color inversion:** Reverse the dark color and light color in 'input2-1.jpg' and 'input2-2.jpg'
 
-۳- در تصویر ۳ دو مرد ناراحت هستند. برای خوشحال شدن آن ها برنامه ای بنویسید که تصویر را ۱۸۰ درجه بچرخاند.
+- **Be happy(rotate):** Rotate this photo and make men happy
 
-۴- الگوریتمی بنویسید که تصویر ۴ را به عنوان ورودی دریافت کرده و مهره های سیاه را از تصویر جدا کند. خروجی باید شبیه تصویر ۵ باشد.
-
+- **Threshold Chess:** Design an algorithm that separates black chess pieces from white chess pieces
