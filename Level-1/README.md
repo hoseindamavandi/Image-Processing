@@ -2,7 +2,7 @@
 
 - **Creat Chess Board:** creat an empty chess board with 'for' and using image processing (openCV)
 
-- **Color inversion:** Reverse the dark color and light color in `input2-1.jpg` and `input2-2.jpg`
+- **Color inversion:** Reverse the dark color and light color in [`input2-1.jpg`](https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Color%20inversion/input2-1.jpg) and [`input2-2.jpg`](https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Color%20inversion/input2-2.jpg)
 
 - **Be happy(rotate):** Rotate this photo and make men happy
 
