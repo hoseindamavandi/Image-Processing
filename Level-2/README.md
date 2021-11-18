@@ -1,14 +1,63 @@
-# Assignment22
+## Image Processing - level 1 
 
+- **Creat Chess Board:** creat an empty chess board with 'for' and using image processing (openCV)
+  <details>
+    <summary>output</summary>
+    <br>
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Creat%20Chess%20Board/output.jpg?raw=true" width="350" title="input2-2">
 
-۱- رمز تصویر a و b را کشف نمایید.
+  </details>
+  
+- **Color inversion:** Reverse the dark color and light color in `input2-1.jpg` and `input2-2.jpg`
+  <details>
+    <summary>input2-1</summary>
+    <br>
+    <img src="https://user-images.githubusercontent.com/83751182/142157138-cf1b6801-016e-48b3-9014-3d44b470ac02.png" width="350" title="input2-1">
 
-۲- در سال 2019 به کمک تلسکوپ هایی که در سراسر کره زمین نصب شده بود و ادغام تصاویر دریافتی آن ها با یکدیگر، انسان توانست برای اولین بار از یک سیاه چاله عکس برداری نماید. شما نیز ابتدا نویز تصاویر هر بخش از سیاه چاله را کاهش دهید. سپس آن ها را به یکدیگر بچسبانید تا نتیجه نهایی بدست آید.
+  </details>
+  <details>
+    <summary>input2-2</summary>
+    <br>
+    <img src="https://user-images.githubusercontent.com/83751182/142157404-bbd17c70-87a0-4427-97c2-2cbe825d4306.png" width="350" title="input2-2">
 
-۳- در خط تولید کارخانه های تولید بوردهای الکترونیکی، برای عیب یابی بوردهای تولید شده، از یک بورد مرجع که صحت آن توسط کارشناسان تایید شده است، استفاده می شود. شما تصویر یک بورد origin و یک بورد test را در اختیار دارید. به کمک پردازش تصویر عیب های بورد test را پیدا نمایید.
+  </details>
+  
+    <details>
+    <summary>output2-1</summary>
+    <br>
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Color%20inversion/output2-1.jpg?raw=true" width="350" title="input2-1">
 
-۴- در تصویر مهره های شطرنج، الگوریتمی بنویسید که تمام مهره ها را به صورت خودکار جدا کرده و در تصاویر مجزا ذخیره نماید.
+  </details>
+  <details>
+    <summary>output2-2</summary>
+    <br>
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Color%20inversion/output2-2.jpg?raw=true" width="350" title="input2-2">
 
-۵- از تصاویر اتوبان میانگین گیری نمایید. تا تصویر خیابان خالی بدست آید.
+  </details>
+- **Be happy(rotate):** Rotate this photo and make men happy
+  <details>
+    <summary>input</summary>
+    <br>
+    <img src="https://user-images.githubusercontent.com/83751182/142156512-b56a7cd4-195d-42ba-aaa1-51a7b3b301a6.jpg" width="350" title="input">
 
-۲- نور پردازی غیر یکنواخت تصویر مونالیزا را اصلاح نمایید.
+  </details>
+  <details>
+    <summary>output</summary>
+    <br>
+    <img src="https://user-images.githubusercontent.com/83751182/142156051-72f2219f-c9d2-41f2-a359-a797758bc718.jpg" width="350" title="hover text">
+  </details>
+  
+- **Threshold Chess:** Design an algorithm that separates black chess pieces from white chess pieces in `4.jpg`
+  <details>
+    <summary>input</summary>
+    <br>
+    <img src="https://user-images.githubusercontent.com/83751182/142158177-615b5925-bcf1-45d9-82b7-647429f01a9a.jpg" width="350" title="input2-1">
+
+  </details>
+  <details>
+    <summary>output</summary>
+
+    <br>
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/threshold%20chess/output4.jpg?raw=true" width="350" title="input2-2">
+
+  </details>
