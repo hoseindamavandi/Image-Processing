@@ -5,5 +5,5 @@ image1 = cv2.imread('/Users/hossein/Documents/python/Image-Processing/Level-1/be
 image1 = cv2.rotate(image1, cv2.ROTATE_180)
 
 cv2.imshow('show output',image1)
-#cv2.waitKey()
-cv2.imwrite('3.jpg', image1)
+cv2.waitKey()
+cv2.imwrite('output3.jpg', image1)
