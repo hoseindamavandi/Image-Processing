@@ -75,13 +75,13 @@
   <details>
     <summary>input</summary>
     <br>
-    <img src="https://user-images.githubusercontent.com/83751182/142158177-615b5925-bcf1-45d9-82b7-647429f01a9a.jpg" width="350" title="input2-1">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Mask%20Tooth/images/12.jpg?raw=true" width="350" title="input2-1">
 
   </details>
   <details>
     <summary>output</summary>
 
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/threshold%20chess/output4.jpg?raw=true" width="350" title="input2-2">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Mask%20Tooth/result.jpg?raw=true" width="350" title="input2-2">
 
   </details>
