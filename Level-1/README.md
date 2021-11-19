@@ -8,6 +8,8 @@
 
   </details>
   
+  ---
+
 - **Color inversion:** Reverse the dark color and light color in `input2-1.jpg` and `input2-2.jpg`
   <details>
     <summary>input2-1</summary>
@@ -34,6 +36,9 @@
     <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Color%20inversion/output2-2.jpg?raw=true" width="350" title="input2-2">
 
   </details>
+
+  ---
+
 - **Be happy(rotate):** Rotate this photo and make men happy
   <details>
     <summary>input</summary>
@@ -47,7 +52,26 @@
     <img src="https://user-images.githubusercontent.com/83751182/142156051-72f2219f-c9d2-41f2-a359-a797758bc718.jpg" width="350" title="hover text">
   </details>
   
+---
+
 - **Threshold Chess:** Design an algorithm that separates black chess pieces from white chess pieces in `4.jpg`
+  <details>
+    <summary>input</summary>
+    <br>
+    <img src="https://user-images.githubusercontent.com/83751182/142158177-615b5925-bcf1-45d9-82b7-647429f01a9a.jpg" width="350" title="input2-1">
+
+  </details>
+  <details>
+    <summary>output</summary>
+
+    <br>
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/threshold%20chess/output4.jpg?raw=true" width="350" title="input2-2">
+
+  </details>
+
+----
+
+- **Mask Tooth:** Use a mask to show only damaged teeth
   <details>
     <summary>input</summary>
     <br>
