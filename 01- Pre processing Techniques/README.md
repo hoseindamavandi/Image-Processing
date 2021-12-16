@@ -1,10 +1,10 @@
-## Image Processing - level 1 
+## 01- Pre processing Techniques
 
-- **Creat Chess Board:** creat an empty chess board with 'for' and using image processing (openCV)
+- **Create Chess Board:** create an empty chess board with 'for' loop and using image processing (openCV)
   <details>
     <summary>output</summary>
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Creat%20Chess%20Board/output.jpg?raw=true" width="350" title="input2-2">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/01-%20Pre%20processing%20Techniques/Creat%20Chess%20Board/output.jpg?raw=true" width="350" title="Chess Board">
 
   </details>
   
@@ -27,13 +27,13 @@
     <details>
     <summary>output2-1</summary>
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Color%20inversion/output2-1.jpg?raw=true" width="350" title="input2-1">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/01-%20Pre%20processing%20Techniques/Color%20inversion/output2-1.jpg?raw=true" width="350" title="input2-1">
 
   </details>
   <details>
     <summary>output2-2</summary>
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Color%20inversion/output2-2.jpg?raw=true" width="350" title="input2-2">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/01-%20Pre%20processing%20Techniques/Color%20inversion/output2-2.jpg?raw=true" width="350" title="input2-2">
 
   </details>
 
@@ -65,7 +65,7 @@
     <summary>output</summary>
 
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/threshold%20chess/output4.jpg?raw=true" width="350" title="input2-2">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/01-%20Pre%20processing%20Techniques/threshold%20chess/output4.jpg?raw=true" width="350" title="input2-2">
 
   </details>
 
@@ -75,13 +75,13 @@
   <details>
     <summary>input</summary>
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Mask%20Tooth/images/12.jpg?raw=true" width="350" title="input2-1">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/01-%20Pre%20processing%20Techniques/Mask%20Tooth/images/12.jpg?raw=true" width="350" title="input2-1">
 
   </details>
   <details>
     <summary>output</summary>
 
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-1/Mask%20Tooth/result.jpg?raw=true" width="350" title="input2-2">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/01-%20Pre%20processing%20Techniques/Mask%20Tooth/result.jpg?raw=true" width="350" title="input2-2">
 
   </details>
