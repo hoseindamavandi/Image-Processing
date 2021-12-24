@@ -8,7 +8,6 @@ Design an algorithm that separates black chess pieces from white chess pieces in
   </details>
   <details>
     <summary>output</summary>
-
     <br>
     <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/01-%20Pre%20processing%20Techniques/threshold%20chess/output4.jpg?raw=true" width="350" title="output4.jpg">
 
