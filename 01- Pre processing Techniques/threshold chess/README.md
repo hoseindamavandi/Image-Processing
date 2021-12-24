@@ -1,4 +1,5 @@
-- **Threshold Chess:** Design an algorithm that separates black chess pieces from white chess pieces in `4.jpg`
+## Threshold Chess:
+Design an algorithm that separates black chess pieces from white chess pieces in `4.jpg`
   <details>
     <summary>input</summary>
     <br>

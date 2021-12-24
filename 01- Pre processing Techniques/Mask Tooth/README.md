@@ -1,5 +1,5 @@
-
-- **Mask Tooth:** Use a mask to show only damaged teeth
+## Mask Tooth:
+Use a mask to show only damaged teeth
   <details>
     <summary>input</summary>
     <br>

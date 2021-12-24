@@ -1,4 +1,5 @@
-- **Be happy(rotate):** Rotate this photo and make men happy
+## Be happy(rotate):
+Rotate this photo and make men happy
   <details>
     <summary>input</summary>
     <br>

@@ -1,4 +1,5 @@
-- **Create Chess Board:** create an empty chess board with 'for' loop and using image processing (openCV)
+## Create Chess Board:
+create an empty chess board with 'for' loop and using image processing (openCV)
   <details>
     <summary>output</summary>
     <br>

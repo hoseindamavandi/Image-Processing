@@ -1,4 +1,5 @@
-- **Color inversion:** Reverse the dark color and light color in `input2-1.jpg` and `input2-2.jpg`
+## Color inversion
+Reverse the dark color and light color in `input2-1.jpg` and `input2-2.jpg`
   <details>
     <summary>input2-1</summary>
     <br>
