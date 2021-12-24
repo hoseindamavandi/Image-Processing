@@ -1,7 +1,10 @@
 ## 01- Pre processing Techniques
-**details:** 
+**details:**
+
 At this level, we get acquainted with the basic concepts and work with image pixels and basic open cv concepts.
+
 ---
+
 **This level consist of following practices:**
 - [Create Chess Board](https://github.com/hoseindamavandi/Image-Processing/tree/main/01-%20Pre%20processing%20Techniques/Create%20Chess%20Board)
 - [Color inversion](https://github.com/hoseindamavandi/Image-Processing/tree/main/01-%20Pre%20processing%20Techniques/Color%20inversion)
