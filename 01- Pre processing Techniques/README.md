@@ -1,5 +1,5 @@
 ## 01- Pre processing Techniques
-**details:**
+**details:** 
 At this level, we get acquainted with the basic concepts and work with image pixels and basic open cv concepts.
 ---
 **This level consist of following practices:**
