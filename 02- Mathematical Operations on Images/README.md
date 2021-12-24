@@ -1,10 +1,11 @@
 ## Image Processing - level 2
 
-- **black hole (opacity merge):** Noise reduction of black hole image using averaging in opencv
+- **black hole (opacity merge):** Noise reduction of black hole image using averaging in opencv.
+  we averaging on many picture of black hole
   <details>
     <summary>output</summary>
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-2/black%20hole%20(opacity%20merge)/output2.jpg?raw=true" width="350" title="input2-2">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/02-%20Mathematical%20Operations%20on%20Images/black%20hole%20(opacity%20merge)/output2.jpg?raw=true" width="350" title="input2-2">
 
   </details>
   
