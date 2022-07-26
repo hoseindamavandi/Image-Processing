@@ -84,7 +84,7 @@
   <details>
     <summary>output</summary>
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-2/cryptography/output1.jpg?raw=true" width="350" title="hover text">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/02-%20Mathematical%20Operations%20on%20Images/cryptography/output1.jpg?raw=true" width="350" title="output1.jpg">
   </details>
   
 ---
@@ -93,8 +93,34 @@
 
   <details>
     <summary>output</summary>
-
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/Level-2/fault%20detection/output3.jpg?raw=true" width="350" title="input2-2">
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/02-%20Mathematical%20Operations%20on%20Images/fault%20detection/output3.jpg?raw=true" width="350" title="output3.jpg">
 
   </details>
+  
+---
+  
+- **highway:** We averaged the following images
+  
+  <details>
+    <summary>output</summary>
+    <br>
+    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/02-%20Mathematical%20Operations%20on%20Images/highway/output5.jpg?raw=true" width="350" title="output5.jpg">
+
+  </details>
+  
+---
+  
+ - **monalisa:** Uniform lighting on `Mona_Lisa.jpg` with a mask
+
+    <details>
+       <summary>input</summary>
+         <br>
+           <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/02-%20Mathematical%20Operations%20on%20Images/monalisa/Mona_Lisa.jpg?raw=true" width="350" title="input">
+    </details>
+
+    <details>
+       <summary>output</summary>
+          <br>
+             <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/02-%20Mathematical%20Operations%20on%20Images/monalisa/output6.jpg?raw=true" width="350" title="output1.jpg">
+     </details>
