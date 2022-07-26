@@ -1,13 +1,13 @@
 import cv2
 import cvzone
 
-face_detector = cv2.CascadeClassifier('/Users/hossein/Documents/python/Image-Processing/Level-4/face filter/haarcascades/haarcascade_frontalface_default.xml')
-eyes_detector = cv2.CascadeClassifier('/Users/hossein/Documents/python/Image-Processing/Level-4/face filter/haarcascades/haarcascade_eye.xml')
-lips_detector = cv2.CascadeClassifier('/Users/hossein/Documents/python/Image-Processing/Level-4/face filter/haarcascades/haarcascade_smile.xml')
+face_detector = cv2.CascadeClassifier('/Users/hossein/Documents/python/Image-Processing/03- Face Filtering/face filter/haarcascades/haarcascade_frontalface_default.xml')
+eyes_detector = cv2.CascadeClassifier('/Users/hossein/Documents/python/Image-Processing/03- Face Filtering/face filter/haarcascades/haarcascade_eye.xml')
+lips_detector = cv2.CascadeClassifier('/Users/hossein/Documents/python/Image-Processing/03- Face Filtering/face filter/haarcascades/haarcascade_smile.xml')
 
-face_emoji = cv2.imread('/Users/hossein/Documents/python/Image-Processing/Level-4/face filter/emojis/emoji1.png',cv2.IMREAD_UNCHANGED)
-eyes_emoji = cv2.imread('/Users/hossein/Documents/python/Image-Processing/Level-4/face filter/emojis/eyes.png',cv2.IMREAD_UNCHANGED)
-lips_emoji = cv2.imread('/Users/hossein/Documents/python/Image-Processing/Level-4/face filter/emojis/lips.png',cv2.IMREAD_UNCHANGED)
+face_emoji = cv2.imread('/Users/hossein/Documents/python/Image-Processing/03- Face Filtering/face filter/emojis/emoji1.png',cv2.IMREAD_UNCHANGED)
+eyes_emoji = cv2.imread('/Users/hossein/Documents/python/Image-Processing/03- Face Filtering/face filter/emojis/eyes.png',cv2.IMREAD_UNCHANGED)
+lips_emoji = cv2.imread('/Users/hossein/Documents/python/Image-Processing/03- Face Filtering/face filter/emojis/lips.png',cv2.IMREAD_UNCHANGED)
 
 flag = 0
 
