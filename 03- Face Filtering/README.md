@@ -8,7 +8,6 @@
 
     <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/03-%20Face%20Filtering/face%20filter/result/2.png?raw=true" width="350" title="1">
     
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/03-%20Face%20Filtering/face%20filter/result/2.png?raw=true" width="350" title="2">
     
     <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/03-%20Face%20Filtering/face%20filter/result/3.png?raw=true" width="350" title="3">
     
