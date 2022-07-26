@@ -1,6 +1,7 @@
 ## 03- Face Filtering
 
-- **face filter:** As soon as you start this program, it will open the webcam and by pressing any of the following keys, it will create a special filter on your face.
+- **face filter**
+
   <details>
     <summary>outputs</summary>
     <br>
@@ -21,6 +22,7 @@
 ---
 
 - **face filter - big eys & lips camera:** 
+
   <details>
     <summary>output</summary>
     <br>
@@ -30,7 +32,8 @@
   
 ---
 
-- **face filter - big eys & lips image:** Decoding the image using the subtraction of two images
+- **face filter - big eys & lips image**
+
   <details>
     <summary>output</summary>
     <br>
