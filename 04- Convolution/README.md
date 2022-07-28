@@ -22,7 +22,10 @@
   <details>
     <summary>output</summary>
     <br>
-    <img src="https://github.com/hoseindamavandi/Image-Processing/blob/main/03-%20Face%20Filtering/face%20filter%20-%20big%20eys%20&%20lips%20camera/result/result.png?raw=true" width="350" title="chess pieces.jpg">
+    
+
+    https://user-images.githubusercontent.com/83751182/181473140-3ab6ce25-32ba-42ea-b411-84593d4837f4.mp4
+
 
   </details>
   
